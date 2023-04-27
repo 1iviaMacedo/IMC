@@ -1,0 +1,76 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(205, 168, 168);
+}
+
+#descExercicio{
+    color: rgb(168, 59, 59);
+    position: absolute;
+    font-style: italic;
+    z-index: 0;
+    font-size: 90%;
+    left: 39%;
+    top: 77%;
+    z-index: 3;
+    background-color: #fdfff400;
+}
+
+#peso{
+    position: absolute;
+    left: 43%;
+    z-index: 2;
+    background-color: #d3d4cd;
+    top: 30%;
+}
+
+#altura{
+    position: absolute;
+    left: 43%;
+    z-index: 2;
+    background-color: #d3d4cd;
+    top: 45%;
+}
+
+#btn{
+    position: absolute;
+    left: 46%;
+    z-index: 2;
+    background-color: #9f5555;
+    top: 60%;
+}
+
+#escrita1{
+    position: absolute;
+    left: 45%;
+    z-index: 2;
+    background-color: #fdfff4;
+    top: 25%;
+}
+
+#escrita2{
+    position: absolute;
+    left: 45%;
+    z-index: 2;
+    background-color: #fdfff4;
+    top: 40%;
+}
+
+.retangulo{
+    width: 25rem;
+    height: 25.6rem;
+    background: #fdfff4;
+    position: absolute;
+    top: 5%;
+    left: 34%;
+    z-index: 1;
+}
+
+.titulo{
+    position: absolute;
+    z-index: 2;
+    color: #ad3e3e;
+    left: 47%;
+    top: 10%;
+    background-color: #fdfff4;
+}
